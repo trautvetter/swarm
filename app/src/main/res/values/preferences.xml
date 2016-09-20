@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color grid swarms activity  -->
+    <string name="PREF_KEY_COLOR_GRID_INTERATION_INTERVAL" translatable="false">com.coffeeshot.swarm.iteration_interval</string>
+    <string name="PREF_KEY_COLOR_GRID_SPEED" translatable="false">com.coffeeshot.swarm.speed</string>
+    <string name="PREF_KEY_COLOR_GRID_CELL_SIZE" translatable="false">com.coffeeshot.swarm.cell_size</string>
+    <string name="PREF_KEY_COLOR_GRID_FILL_RATIO" translatable="false">com.coffeeshot.swarm.fill_ratio</string>
+</resources>

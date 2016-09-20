@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_pause"
+        android:icon="@drawable/ic_action_pause"
+        android:orderInCategory="90"
+        android:title="Pause"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_reset"
+        android:icon="@drawable/ic_action_refresh"
+        android:orderInCategory="100"
+        android:title="Reset"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_controls"
+        android:icon="@drawable/ic_action_settings"
+        android:orderInCategory="110"
+        android:title="Controls"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_discomode"
+        android:orderInCategory="90"
+        android:title="Disco mode"
+        app:showAsAction="never"/>
+
+    <group
+        android:id="@+id/action_colors"
+        android:menuCategory="secondary"
+        android:orderInCategory="70">
+        <item
+            android:id="@+id/color_red"
+            android:title="">
+        </item>
+        <item
+            android:id="@+id/color_blue"
+            android:title="">
+        </item>
+        <item
+            android:id="@+id/color_green"
+            android:title="">
+        </item>
+    </group>
+
+    <item
+        android:id="@+id/action_bomb"
+        android:orderInCategory="60"
+        android:title="B"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_super_power"
+        android:orderInCategory="60"
+        android:title="X"
+        app:showAsAction="always"/>
+
+</menu>
