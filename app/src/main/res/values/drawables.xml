@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item name="csx_logo" type="drawable">@drawable/csx_whitelogo</item>-->
+
+    <item name="csl_settings" type="drawable">@drawable/ic_settings_white_24px</item>
+    <item name="csl_pause" type="drawable">@drawable/ic_pause_white_24px</item>
+    <item name="csl_play" type="drawable">@drawable/ic_play_arrow_white_24px</item>
+    <item name="csl_refresh" type="drawable">@drawable/ic_refresh_white_24px</item>
+
+
+</resources>
