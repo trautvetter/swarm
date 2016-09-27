@@ -4,19 +4,19 @@
 
     <item
         android:id="@+id/action_pause"
-        android:icon="@drawable/ic_action_pause"
+        android:icon="@drawable/csl_pause"
         android:orderInCategory="90"
         android:title="Pause"
         app:showAsAction="always"/>
     <item
         android:id="@+id/action_reset"
-        android:icon="@drawable/ic_action_refresh"
+        android:icon="@drawable/csl_refresh"
         android:orderInCategory="100"
         android:title="Reset"
         app:showAsAction="always"/>
     <item
         android:id="@+id/action_controls"
-        android:icon="@drawable/ic_action_settings"
+        android:icon="@drawable/csl_settings"
         android:orderInCategory="110"
         android:title="Controls"
         app:showAsAction="always"/>
